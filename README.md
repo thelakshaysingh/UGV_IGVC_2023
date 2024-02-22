@@ -13,7 +13,7 @@ Prerequisites:
 Then execute the following code in the home folder:
 
 ```
-git clone https://github.com/AbdulBasit34/UGV_IGVC_2023.git
+git clone https://github.com/thelakshaysingh/UGV_IGVC_2023.git
 cd UGV_IGVC_2023
 catkin_make
 ```
